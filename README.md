@@ -1,6 +1,8 @@
-# Hey there, I'm MAARCoder 👋
+# Hey there, I'm Abdullah AL Rafi 👋
 
-## Full-Stack Developer & AI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI-Assisted+Full-Stack+Developer;Product+Builder+%26+Tech+Explorer;Self-Learner+Building+for+Impact" alt="Typing SVG" />
+</p>
 
 **Student. Self-learner. Builder.**
 
